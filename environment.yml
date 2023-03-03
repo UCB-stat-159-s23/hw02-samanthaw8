@@ -8,4 +8,4 @@ dependencies:
   - scipy=1.10
   - h5py=3.7
   - json=2.0
-  - ipykernel=6.7.0
+  - ipykernel=6.7
